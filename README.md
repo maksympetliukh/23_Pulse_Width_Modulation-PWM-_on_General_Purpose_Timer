@@ -28,7 +28,7 @@ Here is the results:
 - MCU: **STM32F407VET6**
 - CPU: **ARM Cortex-M4**
 - Debugger: **WeAct 1.0**
-- Logic Analyzer: **Sealae 8-channel clone**
+- Logic Analyzer: **Saleae 8-channel clone**
 
 ### Used software and documentation
 - Programming language: **C**
